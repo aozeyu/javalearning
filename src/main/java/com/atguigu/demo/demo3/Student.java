@@ -34,7 +34,6 @@ public class Student implements Serializable {
                 ", address='" + address + '\'' +
                 '}';
     }
-
     public void setAge(int age) {
         this.age = age;
     }
